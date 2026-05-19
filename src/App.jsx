@@ -177,6 +177,7 @@ function App() {
       }}
     >
       <h2>Money Tracker</h2>
+      <h2>This site was built by Chiaha Daniel Chidera</h2>
 
       <button onClick={handleLogout}>Logout</button>
 
